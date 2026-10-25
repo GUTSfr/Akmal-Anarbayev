@@ -12,6 +12,6 @@
 
 ### GitHub Stats:
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GUTSfr&show_icons=true&theme=dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUTSfr&layout=compact&theme=dark" />
 </p>
